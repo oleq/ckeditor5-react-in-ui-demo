@@ -1,3 +1,8 @@
+
+# React components in CKEditor 5 UI demo
+
+![Screenshot](public/screenshot.png?raw=true)
+
 ## Installation
 
 Clone https://github.com/ckeditor/ckeditor5/tree/ck/11451-css-reset-exclude next to this repository on the `11451-css-reset-exclude` branch.
